@@ -12,5 +12,10 @@
     "dashboard"
   ],
   "author": "Amos C",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "puppeteer": "^22.13.1"
+  }
 }
